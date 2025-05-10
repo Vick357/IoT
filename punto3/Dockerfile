@@ -13,5 +13,3 @@ RUN echo "export TURTLEBOT3_MODEL=burger" >> ~/.bashrc
 
 # Comando de entrada por defecto
 CMD ["bash"]
-
-
